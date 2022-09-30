@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Udacity_Score_Keeper</string>
+    <string name="downs">Downtown Football League</string>
+    <string name="team1">TEAM A</string>
+    <string name="team2">TEAM B</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="O">0</string>
+    <string name="addA">addOneForTeamA</string>
+    <string name="addB">addOneForTeamB</string>
+    <string name="details">Match Details</string>
+    <string name="ad">+</string>
+    <string name="shots">Shots</string>
+    <string name="attack">Attacks</string>
+    <string name="pssn">Possession</string>
+    <string name="cards">Cards</string>
+    <string name="corners">Corners</string>
+    <string name="reset">RESET</string>
+</resources>
